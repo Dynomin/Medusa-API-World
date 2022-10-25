@@ -1,17 +1,6 @@
 ## Medusa Hackathon 2022
 <img width="1920" alt="file cover - 1" src="https://user-images.githubusercontent.com/75068056/197415955-10842f22-24e3-498a-85e2-db67b711fa1e.png">
 
-## About
-
-### Participants
-  
-1. [**@nawed2611** : Nawed Ali](https://github.com/nawed2611)
-2. [**@bhavya-giri** :  Bhavya Giri](https://github.com/bhavya-giri)
-3. [**@ishaanbedi** :  Ishaan Bedi](https://github.com/ishaanbedi)
-4. [**@ishar19** : Ishar](https://github.com/ishar19)
-5. [**@juhiechandra** : Juhie](https://github.com/juhiechandra)
-
-
 ### Description
 Medusa is an open source composable commerce engine built with Node.js. Medusa enables developers to build scalable and sophisticated commerce setups with low effort and great developer experience.
 
